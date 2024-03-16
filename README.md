@@ -3,6 +3,7 @@ PROJETO MODULO DE ESTATISTICA DO CURSO ADA TECH + IFOOD
 
 #**A Pandemia no Brasil: Uma historia contada através de Dados**
 
+GRUPO 1 
 Alunos:
 - Gabriel Meireles
 - Haroldo Soares
